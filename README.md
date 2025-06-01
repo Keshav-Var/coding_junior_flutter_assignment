@@ -14,9 +14,7 @@ A beautifully crafted Notes app built with Flutter, GetX, and Sqflite. This app 
 
 ## 📽 Demo
 
-> 📹 Check out the working demo in `assets/demo.mp4`
-
-If viewing on GitHub, video previews may not autoplay. Download and open manually from the `assets/` folder if needed.
+> 📹 Check out the working demo in `https://drive.google.com/file/d/1664qHjlW5Aq96rlh2a_i1rmSKr0IPmw0/view?usp=drivesdk`
 
 ---
 
